@@ -1,4 +1,4 @@
-# Traffic-Congestion-Prediction-and-Management
+# Urban-Traffic-Congestion-Prediction-and-Management
 This project proposes an AI-powered framework for predicting and managing traffic congestion in urban environments. By integrating Gated Recurrent Unit models, Vehicle-to-Infrastructure communication via DSRC, and SUMO-based traffic simulations, the system delivers accurate congestion forecasts and real-time signal optimization. Achieving over 85% prediction accuracy and 91% traffic management efficiency, the solution promotes sustainable mobility, reduced travel times, and smart city infrastructure readiness.
 
 ## Technology Stack Used
